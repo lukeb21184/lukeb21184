@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukeb21184
-- 👀 I’m interested in cybersecurity, web design, and machine learning
-- 🌱 I’m currently learning cybersecurity, java, and python
+- 👀 I’m interested in Cybersecurity, Web Design, and Machine Learning
+- 🌱 I’m currently learning Cybersecurity, Java, and Python
 - 😄 Pronouns: He/Him
 
 <!---
