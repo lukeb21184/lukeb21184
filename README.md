@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lukeb21184
-- 👀 I’m interested in and currently learning Cybersecurity, Web Design, Python, and Machine Learning
-- 😄 Pronouns: He/Him
+- Hi, I’m @lukeb21184
+- I’m interested in and currently learning Cybersecurity, Web Design, Python, and Machine Learning
+- He/Him
 
 <!---
 lukeb21184/lukeb21184 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
